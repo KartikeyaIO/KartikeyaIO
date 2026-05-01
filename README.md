@@ -22,28 +22,28 @@ A media processing DSL designed for control and performance.
 ---
 
 ## 🌐 Socials:
-<p>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartikeyaio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeyaio)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikeya251@gmail.com)
-</p>
+
 ---
 
 ## 💻 Tech Stack
 
 **Core Systems**
-<p>
+
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-</p>
+
 **Media Processing**
-<p>
+
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-black?style=for-the-badge&logo=ffmpeg) — used for encoding/decoding in Editron pipelines
-</p>
+
 **Environment**
-<p>
+
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-</p>
+
 
 ---
 
