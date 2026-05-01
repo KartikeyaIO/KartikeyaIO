@@ -38,7 +38,8 @@ A media processing DSL designed for control and performance.
 
 **Media Processing**
 
-![FFmpeg](https://img.shields.io/badge/FFmpeg-black?style=for-the-badge&logo=ffmpeg) — used for encoding/decoding in Editron pipelines
+![FFmpeg](https://img.shields.io/badge/FFmpeg-black?style=for-the-badge&logo=ffmpeg)  
+- used for encoding/decoding in Editron pipelines
 
 **Environment**
 
