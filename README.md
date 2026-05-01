@@ -21,8 +21,7 @@ Rust-based performance-focused media engine with a DSL pipeline.
 - Token → Parser → AST design
 - Custom processing pipeline
 
-### 🔹 Proto_Com
-Custom wireless communication protocol experiment.
+
 
 ### 🔹 UART Serial Output
 ESP32 serial communication experiments.
