@@ -61,5 +61,4 @@ A media processing DSL designed for control and performance.
 ---
 
 [![](https://komarev.com/ghpvc/?username=KartikeyaIO&color=brightgreen)](https://visitcount.itsvg.in)
----
-<img src="https://algora.io/og/user/KartikeyaIO" />
+
