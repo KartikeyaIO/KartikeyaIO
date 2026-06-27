@@ -11,12 +11,11 @@ I work close to the hardware, building efficient pipelines and exploring how hig
 
 ## 🚀 Featured Project
 
-### 🔧 Editron
+### 🔧 DriveLang
 A media processing DSL designed for control and performance.
 
-- Custom pipeline abstraction for frame-based processing  
-- Uses FFmpeg for encoding/decoding as a backend  
-- Focus on performance, composability, and control  
+- Custom pipeline abstraction for frame-based processing    
+- Focus on performance, and control  
 - Built with Rust  
 
 ---
